@@ -1,0 +1,120 @@
+/*style body text and color*/
+body { 
+	background-color:powderblue;
+	font-family: "Times New Roman", Times, serif;
+	color: #001540;
+}	
+/*Styling for home button*/
+#home {
+	text-align: center;
+	font-size: 55px;
+	color: black;
+}
+/*Styling for sports button*/
+#sports {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right:30px;
+	margin-left:30px;
+}	
+/*Styling for reference button*/
+#reference {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right:30px;
+	margin-left:30px;
+}
+/*Styling for food button*/
+#food {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right:30px;
+	margin-left:30px;
+}
+/*Styling for games button*/
+#games {
+	margin-top: 0px;
+	margin-bottom: 0px;
+	margin-right:30px;
+	margin-left:30px;
+}
+/*Title for the home page*/
+.title {	
+	text-align: center;
+	font-size: 30px
+}
+/*Title for the sports page*/
+.title2{	
+	text-align: right;
+	font-size: 30px
+}
+/*Title for the home page*/
+.subtitle {
+	text-align: center;
+	font-size: 22px	
+}
+/*Styling for paragraph*/
+.paragraph {	
+	text-align: justify;
+	font-size: 20px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+
+/*use to center text*/
+.center {
+	text-align:center;
+}
+
+/*use to style button for going back to top*/
+.top {
+	font-size: 18px;
+	text-align:center;
+}
+/*use to style the menu with buttons*/
+.menu {
+	font-size: 33px;
+	color: black;
+	text-align: center;
+}
+/*use to style all of the images*/
+.images { 
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 60%;
+}
+/*use to style the text with links embedded*/
+
+.here:link {
+	text-decoration: underline;
+	color:black;
+}
+/*the next 4 are used to style links in different forms*/
+a:link {
+  text-decoration: none;
+  color:black;
+}
+
+a:visited {
+  text-decoration: none;
+  color:black;
+}
+
+a:hover {
+  text-decoration: underline;
+  color:black;
+}
+
+a:active {
+  text-decoration: none;
+  color:black;
+}
+/*use to style the validator images*/
+.validator{
+	float: left;
+}
+/*use to style lines used in menu*/
+hr {width: 100%;height: 5px;margin-left: auto;margin-right: auto;background-color:#666;border: 0 none; margin-top: 5px;margin-bottom:5px;}
